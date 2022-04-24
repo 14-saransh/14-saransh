@@ -5,8 +5,6 @@
 ## 🛠 Skills
 Html, css, c 
 
-
-## Other Common Github Profile Sections
 🧠 I'm currently learning c and c++
 
 👯‍♀️ I'm looking to collaborate on c projects
