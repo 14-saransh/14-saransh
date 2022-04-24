@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**14-saransh/14-saransh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saransh Dubey! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Html, css, c 
+
+
+## Other Common Github Profile Sections
+🧠 I'm currently learning c and c++
+
+👯‍♀️ I'm looking to collaborate on c projects
+
+🤔 I'm looking for guidance.
+
+💬 Ask me about 
+
+📫 reach me at saranshdubey14@gmail.com
+
+😄 Pronouns : He/Him
+
+⚡️ Fun fact : you watching my profile
