@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saransh Dubey</h1>
-<h3 align="center">I'm a 0.25 stack Developer</h3>
+<h3 align="center">I'm a Developer / Coder</h3>
 
 <p align="center">
 <img src="https://media4.giphy.com/media/C7l38dCPSgz6mPiDgQ/giphy.gif?cid=ecf05e476x84fsisdt2yrcu61n6hq3pdoj9r2sbza2hf04l1&rid=giphy.gif&ct=g">
