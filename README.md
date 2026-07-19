@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Saransh Dubey 👋</h1>
-<h3 align="center">AI/ML Enthusiast · Product & Data Minded Builder</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Product+%26+Data+Minded+Builder;Building+Bookly+%F0%9F%A4%96;Open+to+AI+Engineering+%2F+PM+roles" alt="Typing SVG" />
+</p>
 
 <p align="center">
 I build things at the intersection of AI, product thinking, and real-world problem solving.
@@ -7,6 +10,11 @@ I build things at the intersection of AI, product thinking, and real-world probl
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=14-saransh&label=Profile%20views&color=0e75b6&style=flat" alt="14-saransh" />
+<img src="https://img.shields.io/github/followers/14-saransh?label=Follow&style=social" alt="followers" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
 
 ---
@@ -27,7 +35,7 @@ I build things at the intersection of AI, product thinking, and real-world probl
 **[Voice Interview Agent](https://github.com/14-saransh/interviewiq-voice-agent)**
 A voice-based mock interview tool built with React, the Web Speech API, and Claude, giving candidates real-time spoken interview practice and feedback.
 
-**Bookly**
+**[Bookly](https://bookly-eour.onrender.com)**
 A reusable booking assistant chatbot for small businesses (gyms, salons, tuition centers), built with FastAPI and deployed live, handling bookings end to end through natural conversation.
 
 **LLM Evaluation & RLHF Annotation**
@@ -60,8 +68,20 @@ Built a RandomForestClassifier model to predict customer response to marketing c
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=14-saransh&show_icons=true&theme=default&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14-saransh&layout=compact&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=14-saransh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14-saransh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=14-saransh&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=14-saransh&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=14-saransh&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
